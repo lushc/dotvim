@@ -1,4 +1,7 @@
 execute pathogen#infect()
-syntax on
+
+syntax enable
+colorscheme monokai
+
 filetype plugin indent on
 autocmd vimenter * NERDTree

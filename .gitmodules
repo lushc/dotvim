@@ -13,3 +13,6 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = git://github.com/vim-scripts/supertab.git
+[submodule "bundle/vim-monokai"]
+	path = bundle/vim-monokai
+	url = git://github.com/sickill/vim-monokai
